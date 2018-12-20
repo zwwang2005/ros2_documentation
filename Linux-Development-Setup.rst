@@ -60,7 +60,7 @@ Install development tools and ROS tools
      flake8-docstrings \
      flake8-import-order \
      flake8-quotes \
-     git+https://github.com/lark-parser/lark.git@0.7b \
+     git+https://github.com/lark-parser/lark.git@8415fa26a3d3d2b81e64e4fe440faab15b53db49 \
      pytest-repeat \
      pytest-rerunfailures \
      pytest \
